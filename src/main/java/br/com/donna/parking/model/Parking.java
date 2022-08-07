@@ -12,8 +12,6 @@ public class Parking {
 	private LocalDateTime exitDate;
 	private String bill;
 	
-	
-	
 	public Parking() {
 	}
 	
